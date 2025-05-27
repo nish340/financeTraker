@@ -38,7 +38,7 @@ A comprehensive personal finance management application that helps users track e
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/nish340/financeTraker.git
 
 # Navigate to the project directory
 cd financeTraker
