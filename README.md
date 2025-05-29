@@ -44,8 +44,10 @@ A comprehensive personal finance management application built with React, TypeSc
 ### Reports & Analytics
 ![Reports](./src/assets/nine.png)
 
+![next](./src/assets/ten.png)
+
 ### Settings
-![Settings](./src/assets/ten.png)
+![Settings](./src/assets/one-one.png)
 
 ## Tech Stack
 
