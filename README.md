@@ -20,13 +20,13 @@ A comprehensive personal finance management application built with React, TypeSc
 ### Dashboard
 ![Dashboard](./src/assets/one.png)
 
+### Next
+![Next](./src/assets/two.png)
+
 ### Budget Overview
-![Budget Overview](./src/assets/two.png)
+![Budget Overview](./src/assets/three.png)
 
 ### Expense Tracker
-![Expense Tracker](./src/assets/three.png)
-
-### Expenses
 ![One-Time Expenses](./src/assets/four.png)
 
 ### Savings Overview
