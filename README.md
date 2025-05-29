@@ -38,13 +38,14 @@ A comprehensive personal finance management application built with React, TypeSc
 ### Investment Calculator
 ![Investment Calculator](./src/assets/seven.png)
 
-### Financial Forecast
-![Financial Forecast](./src/assets/eight.png)
+### Page Not Found
+![Page Not Found](./src/assets/eight.png)
 
 ### Reports & Analytics
 ![Reports](./src/assets/nine.png)
 
-![next](./src/assets/ten.png)
+## Next
+![Next](./src/assets/ten.png)
 
 ### Settings
 ![Settings](./src/assets/one-one.png)
