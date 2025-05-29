@@ -92,7 +92,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       {/* Mobile Sidebar */}
       <Sheet open={mobileMenuOpen} onOpenChange={setMobileMenuOpen}>
         <SheetTrigger asChild>
-          <Button variant="outline" size="icon" className="lg:hidden">
+          <Button variant="outline" size="icon" className="lg:hidden fixed top-4 left-4 z-40">
             <Menu className="w-5 h-5" />
           </Button>
         </SheetTrigger>
@@ -104,22 +104,17 @@ export function Layout({ children }: { children: React.ReactNode }) {
       {/* Main Content */}
       <div className="flex-1 flex flex-col">
         {/* Mobile Header */}
-        <header className="lg:hidden bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 px-4 py-3 flex items-center justify-between">
+        <header className="lg:hidden bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 px-4 py-3 flex items-center justify-center">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-gradient-to-br from-emerald-500 to-emerald-600 rounded-lg flex items-center justify-center">
               <TrendingUp className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold text-emerald-900 dark:text-emerald-400">FinTrack</span>
           </div>
-          <SheetTrigger asChild>
-            <Button variant="outline" size="icon">
-              <Menu className="w-5 h-5" />
-            </Button>
-          </SheetTrigger>
         </header>
 
         {/* Page Content */}
-        <main className="flex-1 p-4 lg:p-6">
+        <main className="flex-1 p-4 lg:p-6 pt-16 lg:pt-6">
           {children}
         </main>
       </div>

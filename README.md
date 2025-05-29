@@ -1,78 +1,78 @@
-# FinanceTracker - Personal Finance Management Application
+# FinTrack – Smart Personal Finance Manager
 
-A comprehensive personal finance management application that helps users track expenses, manage budgets, set savings goals, and make informed financial decisions.
+A comprehensive personal finance management application built with React, TypeScript, and Tailwind CSS. FinTrack helps users track expenses, manage budgets, set savings goals, and forecast their financial future.
 
 ## Features
 
-- **Dashboard**: Overview of financial health with key metrics and visualizations
+- **Dashboard**: Overview of your financial health with key metrics and visualizations
+- **Budget Management**: Set and track category-wise budgets
 - **Expense Tracking**: Log and categorize daily expenses
-- **Budget Management**: Create and monitor monthly budgets by category
-- **Savings Goals**: Set and track progress toward financial goals
-- **Investment Calculator**: Project future returns on investments
-- **Reports & Analytics**: Detailed financial reports with customizable date ranges
-- **One-Time Expenses**: Plan for upcoming large expenses
+- **One-Time Expense Tracking**: Separate tracking for large or unexpected expenses
+- **Savings Goals**: Set and monitor progress towards financial goals
+- **Investment Calculator**: Plan your investments with SIP and lumpsum calculators
+- **Financial Forecasting**: Project your future net worth based on current habits
+- **Reports & Analytics**: Visualize your financial data with charts and graphs
+- **Dark/Light Mode**: Choose your preferred theme
+- **Responsive Design**: Works on both mobile and desktop
 
-## Pages
+## Screenshots
 
-1. **Dashboard**: Financial overview with summary cards and charts
-2. **Expense Tracker**: Interface for logging and managing expenses
-3. **Budget Overview**: Budget creation and monitoring tools
-4. **Savings Overview**: Savings account tracking and management
-5. **Savings Goals**: Goal setting and progress tracking
-6. **Investment Calculator**: Tools for projecting investment growth
-7. **Reports**: Detailed financial analysis and reporting
-8. **One-Time Expenses**: Planning for irregular expenses
-9. **Settings**: User preferences and application configuration
+### Dashboard
+![Dashboard](./src/assets/one.png)
+
+### Budget Overview
+![Budget Overview](./src/assets/two.png)
+
+### Expense Tracker
+![Expense Tracker](./src/assets/three.png)
+
+### One-Time Expenses
+![One-Time Expenses](./src/assets/four.png)
+
+### Savings Overview
+![Savings Overview](./src/assets/five.png)
+
+### Savings Goals
+![Savings Goals](./src/assets/six.png)
+
+### Investment Calculator
+![Investment Calculator](./src/assets/seven.png)
+
+### Financial Forecast
+![Financial Forecast](./src/assets/eight.png)
+
+### Reports & Analytics
+![Reports](./src/assets/nine.png)
+
+### Settings
+![Settings](./src/assets/ten.png)
 
 ## Tech Stack
 
-- React 18+
-- TypeScript
-- Tailwind CSS
-- Shadcn UI Components
-- Redux for state management
-- Recharts for data visualization
-- Vite for development
+- **Frontend**: React, TypeScript
+- **State Management**: Zustand
+- **Styling**: Tailwind CSS, shadcn/ui
+- **Charts**: Recharts
+- **Routing**: React Router
+- **Build Tool**: Vite
 
 ## Getting Started
 
-```bash
-# Clone the repository
-git clone <repository-url>
-
-# Navigate to the project directory
-cd financeTraker
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
-## Project Structure
-
-- `/src/components`: UI components
-- `/src/pages`: Main application pages
-- `/src/hooks`: Custom React hooks
-- `/src/lib`: Utility functions and store configuration
-
-## Data Privacy
-
-This application stores all financial data locally in your browser. No personal financial information is transmitted to external servers.
-
-## Planned Features
-
-- Data export/import functionality
-- Dark/light theme toggle
-- Mobile application
-- Financial advice integration
-- Bill payment reminders
+1. Clone the repository
+2. Install dependencies:
+   ```
+   npm install
+   ```
+3. Start the development server:
+   ```
+   npm run dev
+   ```
+4. Open your browser and navigate to `http://localhost:5173`
 
 ## Author
 
-Nishchay Sharma
+- **Nidhchay** - [GitHub Profile](https://github.com/nidhchay)
 
 ## License
 
-MIT
+This project is licensed under the MIT License - see the LICENSE file for details.
