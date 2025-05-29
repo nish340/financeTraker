@@ -26,7 +26,7 @@ A comprehensive personal finance management application built with React, TypeSc
 ### Expense Tracker
 ![Expense Tracker](./src/assets/three.png)
 
-### One-Time Expenses
+### Expenses
 ![One-Time Expenses](./src/assets/four.png)
 
 ### Savings Overview
@@ -61,7 +61,6 @@ A comprehensive personal finance management application built with React, TypeSc
 
 ## Getting Started
 
-<<<<<<< HEAD
 1. Clone the repository
 2. Install dependencies:
    ```
@@ -105,7 +104,7 @@ This application stores all financial data locally in your browser. No personal 
 - Mobile application
 - Financial advice integration
 - Bill payment reminders
->>>>>>> 3652febab77ea2d954489871423bc98fcd363944
+
 
 ## Author
 
@@ -117,4 +116,4 @@ This application stores all financial data locally in your browser. No personal 
 This project is licensed under the MIT License - see the LICENSE file for details.
 =======
 MIT
->>>>>>> 3652febab77ea2d954489871423bc98fcd363944
+
