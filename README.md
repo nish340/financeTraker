@@ -58,6 +58,7 @@ A comprehensive personal finance management application built with React, TypeSc
 
 ## Getting Started
 
+<<<<<<< HEAD
 1. Clone the repository
 2. Install dependencies:
    ```
@@ -68,6 +69,40 @@ A comprehensive personal finance management application built with React, TypeSc
    npm run dev
    ```
 4. Open your browser and navigate to `http://localhost:5173`
+=======
+```bash
+# Clone the repository
+git clone https://github.com/nish340/financeTraker.git
+
+# Navigate to the project directory
+cd financeTraker
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+## Project Structure
+
+- `/src/components`: UI components
+- `/src/pages`: Main application pages
+- `/src/hooks`: Custom React hooks
+- `/src/lib`: Utility functions and store configuration
+
+## Data Privacy
+
+This application stores all financial data locally in your browser. No personal financial information is transmitted to external servers.
+
+## Planned Features
+
+- Data export/import functionality
+- Dark/light theme toggle
+- Mobile application
+- Financial advice integration
+- Bill payment reminders
+>>>>>>> 3652febab77ea2d954489871423bc98fcd363944
 
 ## Author
 
@@ -75,4 +110,8 @@ A comprehensive personal finance management application built with React, TypeSc
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+MIT
+>>>>>>> 3652febab77ea2d954489871423bc98fcd363944
