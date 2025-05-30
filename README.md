@@ -2,6 +2,9 @@
 
 A comprehensive personal finance management application built with React, TypeScript, and Tailwind CSS. FinTrack helps users track expenses, manage budgets, set savings goals, and forecast their financial future.
 
+## Note ! 
+This repository contains only partial code. The complete project, including the backend, admin portal, and API integrations, is private. For access, please contact me via http://nishchay.online.
+
 ## Features
 
 - **Dashboard**: Overview of your financial health with key metrics and visualizations
