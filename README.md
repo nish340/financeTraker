@@ -2,6 +2,9 @@
 
 A comprehensive personal finance management application built with React, TypeScript, and Tailwind CSS. FinTrack helps users track expenses, manage budgets, set savings goals, and forecast their financial future.
 
+## Note ! 
+This repository contains only partial code. The complete project, including the backend, admin portal, and API integrations, is private. For access, please contact me via http://nishchay.online.
+
 ## Features
 
 - **Dashboard**: Overview of your financial health with key metrics and visualizations
@@ -20,13 +23,13 @@ A comprehensive personal finance management application built with React, TypeSc
 ### Dashboard
 ![Dashboard](./src/assets/one.png)
 
+### Next
+![Next](./src/assets/two.png)
+
 ### Budget Overview
-![Budget Overview](./src/assets/two.png)
+![Budget Overview](./src/assets/three.png)
 
 ### Expense Tracker
-![Expense Tracker](./src/assets/three.png)
-
-### One-Time Expenses
 ![One-Time Expenses](./src/assets/four.png)
 
 ### Savings Overview
@@ -38,14 +41,17 @@ A comprehensive personal finance management application built with React, TypeSc
 ### Investment Calculator
 ![Investment Calculator](./src/assets/seven.png)
 
-### Financial Forecast
-![Financial Forecast](./src/assets/eight.png)
+### Page Not Found
+![Page Not Found](./src/assets/eight.png)
 
 ### Reports & Analytics
 ![Reports](./src/assets/nine.png)
 
+## Next
+![Next](./src/assets/ten.png)
+
 ### Settings
-![Settings](./src/assets/ten.png)
+![Settings](./src/assets/one-one.png)
 
 ## Tech Stack
 
@@ -58,6 +64,16 @@ A comprehensive personal finance management application built with React, TypeSc
 
 ## Getting Started
 
+1. Clone the repository
+2. Install dependencies:
+   ```
+   npm install
+   ```
+3. Start the development server:
+   ```
+   npm run dev
+   ```
+4. Open your browser and navigate to `http://localhost:5173`
 ```bash
 # Clone the repository
 git clone https://github.com/nish340/financeTraker.git
@@ -101,4 +117,4 @@ This application stores all financial data locally in your browser. No personal 
 This project is licensed under the MIT License - see the LICENSE file for details.
 =======
 MIT
->>>>>>> 3652febab77ea2d954489871423bc98fcd363944
+
